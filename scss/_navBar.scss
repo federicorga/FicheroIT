@@ -1,0 +1,79 @@
+
+.titulo {
+	color: white !important;
+	font-size: 1.3rem !important;
+	position: relative;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+	margin-left: 2rem;
+    font-weight: 700 !important;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+	&::after{
+		content: '.';
+		color: #ffc451;
+		margin: 0;
+		padding: 0;
+		line-height: 1;
+		font-weight: 700;
+		letter-spacing: 2px;
+		text-transform: uppercase;
+	}
+
+	&:hover{
+		transition: 0.5s;
+		transform: scale(1.2);
+	}
+}
+
+
+
+
+.seccionNavBar {
+	display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-top: 50px;
+	align-items: center;
+	margin-bottom: 50px;
+	.imgIcon {
+		position: relative;
+		width: 42px;
+		bottom: 39px;
+		left: 14px;
+		z-index: 1;
+	}
+	
+}
+.ulNavMenu {
+	display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+	
+    flex-wrap: wrap;
+	
+	
+	li {
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+		margin: 0;
+		padding: 0;
+		margin-bottom: 3px;
+		
+		&:active {
+			transition: 0.2s;
+			transform: scale(0.9);
+		}
+		button {
+		font-weight: 400;
+    	font-size: 1rem;
+    	width: 119px;
+    	margin-left: 5px;
+		}
+	}
+}
+

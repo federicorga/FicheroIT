@@ -1,0 +1,32 @@
+.notFoundGame {
+position: relative;
+	color: white;
+    width: 100%;
+    text-align: center;
+	z-index: 1;
+}
+.iconNavP {
+	padding-left: 20px;
+	&:hover {
+		transition: 0.5s;
+		transform: scale(1.2);
+	}
+}
+
+.ContenedorBarraBusqueda {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	z-index: 0;
+}
+.barraBuscador {
+	width: 42% !important;
+	border: 1px solid #094f7d9c !important;
+	font-weight: bolder !important;
+	&::placeholder {
+		color: $color_2;
+		font-weight: bold;
+	}
+}

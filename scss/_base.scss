@@ -1,0 +1,41 @@
+$color_1: white;
+$color_2: rgb(255, 255, 255);
+$color_3: black;
+$background-color_1: #212121;
+
+/*........Reseteo---------*/
+/*........FIN Reseteo---------*/
+/*Me permite animar el filtro para que se expanda y se contraiga*/
+html {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+* {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+	&:before {
+		-webkit-box-sizing: inherit;
+		-moz-box-sizing: inherit;
+		box-sizing: inherit;
+	}
+	&:after {
+		-webkit-box-sizing: inherit;
+		-moz-box-sizing: inherit;
+		box-sizing: inherit;
+	}
+}
+
+
+.bodyI {
+	background: $color-fondoBody;
+	background-repeat: repeat;
+
+}
+
+
+footer{
+	height: 0;
+	min-height: 85;
+}

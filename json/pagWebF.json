@@ -1,0 +1,774 @@
+[
+  {
+    "nameWeb": "DevDocs",
+    "link": "https://devdocs.io/",
+    "category": "Documentacion",
+    "subCategory": "ALL",
+    "description": " la documentación de los principales lenguajes de programación Web. DevDocs combina varias documentaciones de API en una interfaz rápida, organizada y con capacidad de búsqueda."
+  },
+  {
+    "nameWeb": "HTML- Documentación Oficial",
+    "link": "https://developer.mozilla.org/es/docs/Web/HTML",
+    "category": "Documentacion",
+    "subCategory": "HTML",
+    "description": "Lenguaje de etiquetas de hipertexto"
+  },
+  {
+    "nameWeb": "CSS- Documentación Oficial",
+    "link": "https://developer.mozilla.org/es/docs/Learn/CSS",
+    "category": "Documentacion",
+    "subCategory": "CSS",
+    "description": "Hojas de Estilo en Cascada "
+  },
+  {
+    "nameWeb": "JavaScript- Documentación Oficial",
+    "link": "https://developer.mozilla.org/es/docs/Learn/JavaScript",
+    "category": "Documentacion",
+    "subCategory": "JavaScript",
+    "description": "Lenguaje de programación interpretado (convierten su lenguaje al de la máquina a medida que ejecutan el código)"
+  },
+  {
+    "nameWeb": "TypeScript- Documentación Oficial",
+    "link": "https://www.typescriptlang.org/es/docs/",
+    "category": "Documentacion",
+    "subCategory": "JavaScript",
+    "description": "TypeScript es un lenguaje de programación fuertemente escrito que se basa en JavaScript, que le brinda mejores herramientas a cualquier escala."
+  },
+  {
+    "nameWeb": "NodeJs - Documentación Oficial",
+    "link": "https://nodejs.org/es/",
+    "category": "Documentacion",
+    "subCategory": "NodeJS",
+    "description": "Se trata de un entorno de código abierto (open source), multiplataforma, que ejecuta el código JavaScript fuera de un navegador."
+  },
+  {
+    "nameWeb": "JSX - Documentación Oficial",
+    "link": "https://es.reactjs.org/docs/jsx-in-depth.html#gatsby-focus-wrapper",
+    "category": "Documentacion",
+    "subCategory": "React",
+    "description": "JSX es una extensión de la sintaxis del lenguaje JavaScript que proporciona una forma de estructurar la representación de componentes utilizando una sintaxis familiar para muchos desarrolladores que se usa comúnmente en React. Es similar en apariencia a HTML."
+  },
+  {
+    "nameWeb": "MongoDB- Documentación Oficial",
+    "link": "https://www.mongodb.com/",
+    "category": "Documentacion",
+    "subCategory": "BD",
+    "description": "es un sistema de base de datos NoSQL, orientado a documentos y de código abierto."
+  },
+  {
+    "nameWeb": "REACTJS- Documentación Oficial",
+    "link": "https://es.reactjs.org/",
+    "category": "Documentacion",
+    "subCategory": "React",
+    "description": "Una biblioteca de JavaScript para construir interfaces de usuario"
+  },
+  {
+    "nameWeb": "Boostrap- Documentación Oficial",
+    "link": "https://getbootstrap.com/",
+    "category": "Documentacion",
+    "subCategory": "CSS",
+    "description": "Kit de herramientas frontal potente, ampliable y repleto de funciones. Cree y personalice con Sass, utilice el sistema de grillas y los componentes prediseñados y haga que los proyectos cobren vida con potentes complementos de JavaScript."
+  },
+  {
+    "nameWeb": "SASS- Documentación Oficial",
+    "link": "https://sass-lang.com/",
+    "category": "Documentacion",
+    "subCategory": "CSS",
+    "description": "SASS es el lenguaje de extensión CSS de grado profesional más maduro, estable y potente  del mundo"
+  },
+  {
+    "nameWeb": "NPM Documentación + Paquetes para descargar",
+    "link": "https://www.npmjs.com/",
+    "category": "Documentacion",
+    "subCategory": "NodeJS",
+    "description": "Node Package Manager Sistema de gestión de paquetes por defecto para Node.js, un entorno de ejecución para JavaScript"
+  },
+  {
+    "nameWeb": "Eloquent JavaScript 3ra Edición",
+    "link": "https://eloquentjs-es.thedojo.mx/",
+    "category": "Documentacion",
+    "subCategory": "JavaScript",
+    "description": "es un Libro de JavaScript, programación, y las maravillas de lo digital. Puedes leerlo aquí"
+  },
+  {
+    "nameWeb": "GIT - Documentacion Oficial",
+    "link": "https://git-scm.com/",
+    "category": "Documentacion",
+    "subCategory": "GIT",
+    "description": "Git es un libre y de código abierto sistema de control de versión distribuido diseñado para manejar todo, desde pequeño hasta proyectos muy grandes con velocidad y eficiencia."
+  },
+  {
+    "nameWeb": "GitHub- Documentacion Oficial",
+    "link": "https://docs.github.com/es",
+    "category": "Documentacion",
+    "subCategory": "GIT",
+    "description": "Sito para alojar proyectos utilizando el sistema de control de versiones Git. (Pago y gratuito)"
+  },
+  {
+    "nameWeb": "GitLab- Documentacion Oficial",
+    "link": "https://docs.gitlab.com/",
+    "category": "Documentacion",
+    "subCategory": "GIT",
+    "description": "Sito para alojar proyectos utilizando el sistema de control de versiones Git. (solo gratuito)"
+  },
+  {
+    "nameWeb": "Firebase Documentación + Firestore BD noSQL",
+    "link": "https://firebase.google.com/docs?hl=es-419",
+    "category": "Documentacion",
+    "subCategory": "BD",
+    "description": "Firebase es una plataforma de desarrollo de apps que te ayuda a compilar y desarrollar las apps y los juegos que les encantan a los usuarios. Con el respaldo de Google y la confianza de millones de empresas de todo el mundo..Cloud Firestore es una base de datos de documentos NoSQL que permite almacenar, sincronizar y consultar fácilmente datos en tus apps web y para dispositivos móviles a escala global."
+  },
+  {
+    "nameWeb": "Google Fonts",
+    "link": "https://fonts.google.com/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Directorio de Fuentes Libres de Google."
+  },
+  {
+    "nameWeb": "Responsively - Vista de pantallas",
+    "link": "https://fonts.google.com/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Obtenga una vista previa de todas las pantallas de destino en una sola ventana una al lado, Una herramienta de desarrollo imprescindible para todos los desarrolladores de Front-End que facilitará su trabajo"
+  },
+  {
+    "nameWeb": "Coolors- Generador Paletas de colores para Web",
+    "link": "https://coolors.co/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Generador de paletas de colores para web."
+  },
+  {
+    "nameWeb": "Correo temporal",
+    "link": "https://correotemporal.org/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Aplicación gratuita para generar un email temporal anónimo y privado sin registro alguno. Podrás usarlo para registrarte en cualquier servicio online y recibir todos los mensajes de forma inmediata en nuestra página web."
+  },
+  {
+    "nameWeb": "Balsamiq",
+    "link": "https://balsamiq.cloud/#",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Bocetos de interfaz de usuario sin esfuerzo"
+  },
+  {
+    "nameWeb": "CssReferencia",
+    "link": "https://cssreference.io/",
+    "category": "Documentacion",
+    "subCategory": "CSS",
+    "description": "Guía visual gratuita de CSS. Cuenta con los más populares propiedades, y los explica con ilustrado y animado ejemplos."
+  },
+  {
+    "nameWeb": "CSS Generador Visual",
+    "link": "https://cssgenerator.org/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Un generador Visual CSS que lo ayuda a demostrar y generar rápidamente declaraciones CSS para su sitio web. Viene con muchas herramientas generadoras -Box Shadow"
+  },
+  {
+    "nameWeb": "PNGIMG",
+    "link": "https://pngimg.es/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Imágnes PNG e imágenes prediseñadas para diseño web"
+  },
+  {
+    "nameWeb": "CSS Gradients Generador",
+    "link": "https://cssgradient.io/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "CSS Gradient es un sitio web y una herramienta gratuita que le permite crear un fondo de degradado para sitios web. "
+  },
+  {
+    "nameWeb": "CSS - Degradados de Color",
+    "link": "https://www.awwwards.com/ejemplos-de-degradados-de-color-en-el-diseno-web.html",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Ejemplos de degradados de color multiples, varios diseños. "
+  },
+  {
+    "nameWeb": "AOS - Animate On Scroll Library",
+    "link": "https://michalsnik.github.io/aos/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Libreria de animaciones de desplazamiento"
+  },
+  {
+    "nameWeb": "Animate.css",
+    "link": "https://animate.style/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "es una biblioteca de animaciones de navegador cruzado listas para usar para usar en sus proyectos web. Ideal para el énfasis, páginas de inicio, controles deslizantes y sugerencias que guían la atención."
+  },
+  {
+    "nameWeb": "html-css-js Generador",
+    "link": "https://html-css-js.com/css/generator/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Mega pagina editor con vista previa instantánea util para armar textos en CSS, sobras y otras cosas html y JS."
+  },
+
+  {
+    "nameWeb": "GIT - Comandos",
+    "link": "https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/",
+    "category": "Herramienta",
+    "subCategory": "GIT",
+    "description": "10 Comandos de Git Que Todo Desarrollador Debería Saber"
+  },
+  {
+    "nameWeb": "Free Front-End coleccion",
+    "link": "https://freefrontend.com/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Coleccion libre de codigo Js, estilos CSS, Formularios modelos, etc"
+  },
+  {
+    "nameWeb": "ILoveIMG",
+    "link": "https://www.iloveimg.com/es",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Herramientas online para la edición de imágenes"
+  },
+  {
+    "nameWeb": "Bootstrap 5 CheatSheet",
+    "link": "https://bootstrap-cheatsheet.themeselection.com/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Una lista interactiva de Bootstrap 5 clases, variables, y mixins. 🎁 La única hoja de trucos Bootstrap 5 que necesitará. 🎊"
+  },
+  {
+    "nameWeb": "BootstrapMade - Plantillas de bootstrap gratis",
+    "link": "https://bootstrapmade.com/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Creamos plantillas y temas gratuitos limpios, elegantes y hermosos en el sitio web utilizando Bootstrap, el marco HTML, CSS y JavaScript más popular"
+  },
+  {
+    "nameWeb": "Bootswatch - Temas Gratis para Boostrap",
+    "link": "https://bootswatch.com/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Temas gratis para Bootstrap"
+  },
+  {
+    "nameWeb": "Organizar los archivos Sass de tu proyecto",
+    "link": "https://latteandcode.medium.com/c%C3%B3mo-organizar-los-archivos-sass-de-tu-proyecto-c8b02242d95",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Cómo organizar los archivos Sass de tu proyecto"
+  },
+  {
+    "nameWeb": "HTTP-ARCHIVO Web Informativa Util",
+    "link": "https://httparchive.org/",
+    "category": "Documentacion",
+    "subCategory": "HTML",
+    "description": "Archivo HTTP Pistas Cómo Web está construido. Peso de Imagenes, APIS, Archivos, etc"
+  },
+  {
+    "nameWeb": "Tinyjpg - Compresor de Imagen",
+    "link": "https://tinyjpg.com/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Inteligente WebP, JPEG y PNG compresión"
+  },
+  {
+    "nameWeb": "Freepik - Imagenes y diseños",
+    "link": "https://www.freepik.com/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Todos los activos que necesita, en un solo lugar Encuentra y descarga las mejores fotos, diseños y maquetas de alta calidad."
+  },
+  {
+    "nameWeb": "xml-sitemaps Creador de Mapa de Sitio Web",
+    "link": "https://www.xml-sitemaps.com/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Ingrese la URL de su sitio web para crear un mapa del sitio. Cree un mapa de sitio XML que se puede envidiar a Google, Bing y otros motivos de negocio para ayudarlos a rastrear mejor su sitio web."
+  },
+  {
+    "nameWeb": "Css-tricks",
+    "link": "https://css-tricks.com/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Pagina de explicacion muy buena con codigo para css como box-sizing para iniciar un html"
+  },
+  {
+    "nameWeb": "FileZilla - Servidor para Pagina web",
+    "link": "https://filezilla-project.org/",
+    "category": "Documentacion",
+    "subCategory": "HTML",
+    "description": "Servidor FileZilla es un servidor FTP y FTPS de código abierto gratuito, Permite subir Paginas Web a la red con una aplicacion"
+  },
+  {
+    "nameWeb": "000WebHost -Hosting gratuito para Pagina web",
+    "link": "https://ar.000webhost.com/",
+    "category": "herramietna",
+    "subCategory": "HTML",
+    "description": "Pagina de Host Gratiuto para subir tu pagina web"
+  },
+  {
+    "nameWeb": "Netlify",
+    "link": "https://www.netlify.com/",
+    "category": "herramienta",
+    "subCategory": "GIT",
+    "description": "Host gratiuto de paginas subidas a Github"
+  },
+  {
+    "nameWeb": "ResizePixel - cambiar tamaño de imagenes",
+    "link": "https://www.resizepixel.com/es/resize-image/",
+    "category": "herramienta",
+    "subCategory": "HTML",
+    "description": "Cambiar tamaño de imagen online JPG, PNG, WEBP, GIF, BMP, TIFF"
+  },
+  {
+    "nameWeb": "Validador de Nombre de Variables",
+    "link": "https://mothereff.in/js-variables",
+    "category": "herramienta",
+    "subCategory": "JavaScript",
+    "description": "¿Se pregunta si puede usar una cadena dada como nombre de variable en JavaScript? Aprende cómo funciona, o simplemente use esta herramienta."
+  },
+  {
+    "nameWeb": "javascript.info",
+    "link": "https://es.javascript.info/",
+    "category": "Documentacion",
+    "subCategory": "JavaScript",
+    "description": "El Tutorial de JavaScript Moderno Cómo se hace ahora. Desde lo básico hasta temas avanzados con explicaciones simples pero detalladas."
+  },
+  {
+    "nameWeb": "Tailwindcs- Similar Boostrap ",
+    "link": "https://tailwindcss.com/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Un marco CSS de utilidad primero repleto de clases como,,y flex pt-4 text-center rotate-90 que puede estar compuesto para construir cualquier diseño, directamente en su marcado."
+  },
+  {
+    "nameWeb": "hype4.academy - CSS",
+    "link": "https://hype4.academy/tools/glassmorphism-generator",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Libros, cursos y materiales gratuitos y pagados para que usted aumente sus habilidades en poco tiempo!"
+  },
+  {
+    "nameWeb": "Eggradientes - CSS",
+    "link": "https://www.eggradients.com/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Gradientes Antecedentes Colores."
+  },
+  {
+    "nameWeb": "Cloud Table - Creador de Tablas, Paginacion, Busqueda Instantanea",
+    "link": "https://datatables.net/",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "Agregar controles de interacción avanzados a sus tablas HTML la manera libre y fácil"
+  },
+  {
+    "nameWeb": "Minificador de codigo - Comprimir Codigo",
+    "link": "https://www.useotools.com/es/minify-js",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "está diseñada para comprimir muchos archivos JS"
+  },
+  {
+    "nameWeb": "SweetAlert2",
+    "link": "https://sweetalert2.github.io/",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "Un reemplazo hermoso, receptivo, personalizable y accesible ( wai-aria ) para las cajas emergentes de javascript"
+  },
+  {
+    "nameWeb": "AnimeJs - Animaciones javascript",
+    "link": "https://animejs.com/",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "Anime.js es una biblioteca ligera de animación de JavaScript con una API simple pero potente. Funciona con propiedades CSS, SVG, atributos DOM y objetos JavaScript."
+  },
+  {
+    "nameWeb": "LatenFlip - Pila de llamadas",
+    "link": "http://latentflip.com/loupe/",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "Loupe es una pequeña visualización para ayudarlo a comprender cómo interactúan entre sí la pila de llamadas / ciclo de eventos / cola de devolución de llamada de JavaScript."
+  },
+  {
+    "nameWeb": "CSS3 Generator",
+    "link": "https://css3generator.com/",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "Pagina para generar Box Shadown, transiciones, flex y copiar codigo"
+  },
+  {
+    "nameWeb": "jsonplaceholde - API falsas y gratuitas Modelo",
+    "link": "https://jsonplaceholder.typicode.com/",
+    "category": "Herramienta",
+    "subCategory": "BD",
+    "description": "API falsa gratuita para pruebas y creación de prototipos. Desarrollado por Servidor JSON + Bajo DB. Probado con XV."
+  },
+  {
+    "nameWeb": "APIs Gratuitas",
+    "link": "https://platzi.com/blog/12-api-gratis-para-desarrolladores-frontend/",
+    "category": "Herramienta",
+    "subCategory": "BD",
+    "description": "13 APIs gratis para desarrolladores frontend"
+  },
+  {
+    "nameWeb": "Gran lista de API públicas gratuitas y abiertas",
+    "link": "https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/",
+    "category": "Herramienta",
+    "subCategory": "BD",
+    "description": "No se necesita autenticación "
+  },
+  {
+    "nameWeb": "CLIPPY - Creador formas CSS",
+    "link": "https://bennettfeely.com/clippy/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "clip-path la propiedad le permite crear formas complejas en CSS recortando un elemento a una forma básica ( círculo, elipse, polígono o inserto ), o a una fuente SVG."
+  },
+  {
+    "nameWeb": "CODEPEN - Entorno de desarrollo de codigo y visualizacion JS + CSS + HTML ",
+    "link": "https://codepen.io/pen",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "El mejor lugar para construir, probar y descubrir código frontal. CodePen es un entorno de desarrollo social para diseñadores y desarrolladores de front-end. Cree e implemente un sitio web, muestre su trabajo, cree casos de prueba para aprender y depurar, y encuentre inspiración."
+  },
+  {
+    "nameWeb": "CanIuse ¿Puedo usar? ",
+    "link": "https://caniuse.com/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Me muestra que herramientas estan disponibles en los distintos navegadores, super util "
+  },
+  {
+    "nameWeb": " RUN JS - Codigo en vivo",
+    "link": "https://caniuse.com/",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "Explore y experimente con JavaScript y TypeScript, visualice sus ideas y obtenga comentarios instantáneos a medida que escribe. "
+  },
+  {
+    "nameWeb": " Compilador HTML A JSX",
+    "link": "https://magic.reactjs.net/htmltojsx.htm",
+    "category": "Herramienta",
+    "subCategory": "React",
+    "description": "Herramienta util para react, transforma codigo HTML a JSX para usar "
+  },
+  {
+    "nameWeb": "FontAwsome - Fuente de iconos ",
+    "link": "https://fontawesome.com/v4/icons/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Miles de Iconos para usar"
+  },
+  {
+    "nameWeb": "Animaciones de carga de pagina - CSS ",
+    "link": "https://loading.io/css/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Cargadores CSS puros, animaciones de carga CSS de código abierto dedicadas a la velocidad, la simplicidad y la facilidad de desarrollo."
+  },
+  {
+    "nameWeb": "Formik - constructor de Formularios ",
+    "link": "https://formik.org/",
+    "category": "Herramienta",
+    "subCategory": "React",
+    "description": "Constructor de Formularios biblioteca de formularios de código abierto más popular del mundo para React and React Native."
+  },
+  {
+    "nameWeb": "codesandbox - crear codigo util para React",
+    "link": "https://codesandbox.io/",
+    "category": "Herramienta",
+    "subCategory": "React",
+    "description": "Permite crear codigo en vivo y subirlo a la nube util para dar clases se puede usar para Javascript tambien"
+  },
+  {
+    "nameWeb": "JSON BLOB - Simulador Cliente/Servidor",
+    "link": "https://jsonblob.com/",
+    "category": "Herramienta",
+    "subCategory": "BD",
+    "description": "JSON Blob se creó para ayudar a paralelizar el desarrollo cliente/servidor . Las respuestas simuladas de JSON se pueden definir mediante el editor en línea y luego los clientes pueden usar la API JSON Blob para recuperar"
+  },
+  {
+    "nameWeb": "GITPOD Editor - Trabajo en la nube con los repositorios de GitHub",
+    "link": "https://www.gitpod.io/",
+    "category": "Herramienta",
+    "subCategory": "GIT",
+    "description": "Plataforma que me permite trabajar con mi repopsitorio de Github desde la nube. Podemos editar nuestro codigo y guardarlo desde la nube, Ejecutar, compilar, etc"
+  },
+  {
+    "nameWeb": "Readme Editor - Crea facil Readme para GitHub",
+    "link": "https://readme.so/es",
+    "category": "Herramienta",
+    "subCategory": "GIT",
+    "description": "Crea facil un readme para poner en Github, muestra como va quedando"
+  },
+  {
+    "nameWeb": "Comandos Esenciales de GIT",
+    "link": "https://github.com/gdcodev/comandos-git",
+    "category": "Herramienta",
+    "subCategory": "GIT",
+    "description": "comandos de GIT que les puede ser de mucha ayuda a la hora de organizar el código de trabajo, el historial y evolución del mismo."
+  },
+  {
+    "nameWeb": "Transition.css",
+    "link": "https://www.transition.style/#in:square:hesitate",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Esta herramienta te va a ayudar con su recopilación de transiciones a darle un estilo mucho mas personalizado, solo con instalarla basta."
+  },
+  {
+    "nameWeb": "box-shadow.css",
+    "link": "https://box-shadow.dev/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Con esta aplicación vas a poder personalizar además de visualizar lo que vas haciendo, tiene sliders para poder manejar todas las funciones que posee."
+  },
+  {
+    "nameWeb": "CSS grid generator",
+    "link": "https://grid.layoutit.com/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Esta herramienta te va a facilitar la vida cuando quieras crear grillas, solo tienes que indicarle como la deseas y en la parte derecha de la pagina te va a generar el código CSS listo para usar."
+  },
+  {
+    "nameWeb": "Flexbox generator",
+    "link": "https://the-echoplex.net/flexyboxes/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Y si te resulta complicado flexbox, esta herramienta también va a facilitarte la vida. Al igual que la anterior, indica los valores que necesita y la misma te devuelve el código CSS listo para usar."
+  },
+  {
+    "nameWeb": "Uiverseio.css",
+    "link": "https://uiverse.io/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "te brinda un monton de elementos UI de etiquetas html con sus respectivos codigos css, solo tenes que elegir la que mas te guste y hacer copy paste."
+  },
+  {
+    "nameWeb": "React-PDF",
+    "link": "https://react-pdf.org/",
+    "category": "Herramienta",
+    "subCategory": "React",
+    "description": "REACT PDF te permite renderizar PDFs en tu sitio web muy fácilmente:."
+  },
+  {
+    "nameWeb": "React-useAnimations",
+    "link": "https://react.useanimations.com/",
+    "category": "Herramienta",
+    "subCategory": "React",
+    "description": " UseAnimations es una colección de iconos con animaciones para mostrar micro interacciones en tu página web."
+  },
+  {
+    "nameWeb": "React-Hot Toast",
+    "link": "https://react-hot-toast.com/",
+    "category": "Herramienta",
+    "subCategory": "React",
+    "description": " React Hot Toast te permite mostrar notificaciones en tu página web de forma bonita y sencilla."
+  },
+  {
+    "nameWeb": "React-Day Picker",
+    "link": "https://react-day-picker.js.org/",
+    "category": "Herramienta",
+    "subCategory": "React",
+    "description": " enderiza un calendario completo con el que puedes navegar meses y días. Totalmente personalizable para que encaje con tu estilo de página.."
+  },
+  {
+    "nameWeb": "React-FilePond",
+    "link": "https://pqina.nl/filepond/",
+    "category": "Herramienta",
+    "subCategory": "React",
+    "description": "Un componente para arrastrar y soltar imágenes. Sube de nivel la forma en la que tus usuarios suben imágenes a tu sitio. También disponible para Vue, Angular y otros frameworks."
+  },
+  {
+    "nameWeb": "Remove Bg - quitar fondo",
+    "link": "https://www.remove.bg/es",
+    "category": "Herramienta",
+    "subCategory": "HTMLS",
+    "description": "Quita fondo de imagenes"
+  },
+  {
+    "nameWeb": "React- Documentacion Oficial BETA (optimo)",
+    "link": "https://beta.reactjs.org/",
+    "category": "Documentacion",
+    "subCategory": "React",
+    "description": "Documentacion de React con Ejemplos e interactivo mas eficiente para aprender React"
+  },
+  {
+    "nameWeb": "NextJs - Documentacion Oficial",
+    "link": "https://nextjs.org/learn/foundations/about-nextjs",
+    "category": "Documentacion",
+    "subCategory": "React",
+    "description": "Es un marco web de desarrollo front-end de React de código abierto creado por Vercel que habilita funcionalidades como la representación del lado del servidor y la generación de sitios web estáticos para aplicaciones web basadas en React"
+  },
+  {
+    "nameWeb": "The Algorithms - Alogaritmo de varios lenguajes",
+    "link": "https://the-algorithms.com/es",
+    "category": "Documentacion",
+    "subCategory": "GIT",
+    "description": "Te damos la bienvenida a la biblioteca de algoritmos de código abierto más grande en GitHub"
+  },
+  {
+    "nameWeb": "NodeJs Online - Editor Online de codigo",
+    "link": "https://replit.com/languages/nodejs",
+    "category": "Herramienta",
+    "subCategory": "NodeJS",
+    "description": "herramienta web para usar NodeJs online similar a tenerlo en la computadora para el back-end Codifique, colabore, compile, ejecute, comparta e implemente Node.js y más en línea desde su navegador."
+  },
+  {
+    "nameWeb": "Animista - css animaciones editor",
+    "link": "https://animista.net/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Libreria de animaciones css que podemos visualizar y editar y copiar codigo, herramienta ideal"
+  },
+  {
+    "nameWeb": "Particles JS - editor de particulas",
+    "link": "https://vincentgarreau.com/particles.js/",
+    "category": "Herramienta",
+    "subCategory": "JavaScript",
+    "description": "Una biblioteca ligera de JavaScript para crear partículas Util para fondos entre otros"
+  },
+  {
+    "nameWeb": "Neumorphism.io",
+    "link": "https://neumorphism.io/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "esta herramienta te permite agregar sombras y efectos suaves a tus elementos HTML para crear diseños tridimensionales."
+  },
+  {
+    "nameWeb": "3D Book Cover Generator",
+    "link": "https://diybookcovers.com/3Dmockups/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Una herramienta para generar imágenes de portadas de libros en 3D que puedes usar en tus diseños web."
+  },
+  {
+    "nameWeb": "Get Waves - Ondas CSS",
+    "link": "https://getwaves.io/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Una herramienta para crear ondas SVG personalizadas que puedes usar como fondos en tus diseños web."
+  },
+  {
+    "nameWeb": "FANCY-BORDER-RADIUS",
+    "link": "https://9elements.github.io/fancy-border-radius/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Una herramienta para crear bordes redondeados y personalizados para tus elementos HTML."
+  },
+  {
+    "nameWeb": "CSS-Matic",
+    "link": "https://www.cssmatic.com/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Varias Herramientas para diseño web, sombras, generador de gradientes, radio fronterizo, texturas"
+  },
+  {
+    "nameWeb": "Neumorphic Design - botones y elementos CSS ",
+    "link": "https://neumorphic.design/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": "Una herramienta para generar botones y elementos de diseño web con efectos neumórficos en un par de clics."
+  },
+  {
+    "nameWeb": "Postman - API",
+    "link": "https://www.postman.com/",
+    "category": "Herramienta",
+    "subCategory": "NodeJS",
+    "description": "El cartero es un Plataforma API para construir y usar API. Postman simplifica cada paso del ciclo de vida de API y simplifica la colaboración para que pueda crear mejores API — más rápido."
+  },
+  {
+    "nameWeb": "REDIS - BD",
+    "link": "https://redis.io/",
+    "category": "Herramienta",
+    "subCategory": "BD",
+    "description": "El almacén de datos de código abierto en memoria utilizado por millones de desarrolladores como base de datos, caché, motor de transmisión y corredor de mensajes."
+  },
+  {
+    "nameWeb": "Online UUID Generator",
+    "link": "https://www.uuidgenerator.net/version4",
+    "category": "Herramienta",
+    "subCategory": "BD",
+    "description": "generador de claves únicas UUID/GUID. Un UUID es un identificador único global/universal, que es un número de 128 bits empleado en sistemas de computación para identificar información."
+  },
+  {
+    "nameWeb": "Bloop AI",
+    "link": "https://bloop.ai/",
+    "category": "Herramienta",
+    "subCategory": "GIT",
+    "description": "Comprender las bases de código con GPT-4, y semántico búsqueda de código es una aplicación de escritorio para una búsqueda rápida de código privado. bloop funciona en Mac, Windows y Linux y se puede construir fácilmente desde fuente."
+  },
+  {
+    "nameWeb": "Nodemon",
+    "link": "https://nodemon.io/",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": " nodemon es un envoltorio de reemplazo para node. Nodemon es una herramienta que ayuda a desarrollar aplicaciones basadas en Node.js reiniciando automáticamente la aplicación de nodo cuando se detectan cambios de archivo en el directorio."
+  },
+  {
+    "nameWeb": "Express JS",
+    "link": "https://expressjs.com/es/",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "es un Framework minimalista que permite desarrollar servidores mas complejos"
+  },
+  {
+    "nameWeb": "Multer - middleware de Express",
+    "link": "https://github.com/expressjs/multer",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "Multer es un middleware de node.js para el manejo de multipart/form-data, el cuál es usado sobre todo para la subida de archivos."
+  },
+  {
+    "nameWeb": "Handlebars - Motor de plantillas",
+    "link": "https://handlebarsjs.com/",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "Motor de plantillas para agregar nivel medio de dinamismo en una pagina web (permite generar HTML dinámico, usar bucles, variables) puede usarlo para incrustar código JavaScript"
+  },
+  {
+    "nameWeb": "MySQL",
+    "link": "https://www.mysql.com/",
+    "category": "Documentacion",
+    "subCategory": "BD",
+    "description": "Es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle."
+  },
+  {
+    "nameWeb": "Glitch -Hosting paginas web y proyectos",
+    "link": "https://glitch.com/",
+    "category": "Herramienta",
+    "subCategory": "HTML",
+    "description": "Glitch es el lugar amigable donde todos construyen la web. Iniciar un nuevo blog, jugar con React, o construir nuevos mundos con WebXR"
+  },
+  {
+    "nameWeb": "Diagrams.NET - Diagramas",
+    "link": "https://www.drawio.com/",
+    "category": "Herramienta",
+    "subCategory": "C#",
+    "description": "Diagrama de seguridad primero para equipos. Lleve su almacenamiento a nuestra herramienta en línea o vaya a la máxima privacidad con la aplicación de escritorio."
+  },
+  {
+    "nameWeb": "lucidchart - Diagrama UML",
+    "link": "https://www.drawio.com/",
+    "category": "Herramienta",
+    "subCategory": "C#",
+    "description": "Programa para Hacer Diagramas UML Online, es un espacio de trabajo gráfico que combina diagramas, visualización de datos y colaboración para acelerar la comprensión e impulsar la innovación."
+  },
+  {
+    "nameWeb": "ViteJS",
+    "link": "https://vitejs.dev/",
+    "category": "Documentacion",
+    "subCategory": "React",
+    "description": "Permite crear proyecto y servidor de desarrollo para React tambien util para TS,JS y otros. Herramientas frontend para un entorno de desarrollo multiplataforma."
+  },
+  {
+    "nameWeb": "Phind - IA",
+    "link": "https://www.phind.com/",
+    "category": "Herramienta",
+    "subCategory": "IA",
+    "description": "El motor de búsqueda de IA para desarrolladores."
+  }
+
+]

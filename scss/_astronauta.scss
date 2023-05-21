@@ -1,0 +1,68 @@
+
+
+.sectionImgAstronauta{
+    display: flex;
+    height: 87px;
+    width: 0;
+    left: 48%;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    
+
+    .mate{
+        position: relative;
+        top: 53px;
+        animation: mater 12s infinite;
+        left: 32px;
+        width: 46px;
+
+    }
+
+    img{
+        position: relative;
+        top: 4px;
+        width: 150px;
+}
+
+    
+}
+
+
+@keyframes mater {
+    0% {
+        top: 53px;
+    }
+    
+    15% {
+        top: 25px;
+    }
+    
+    30% {
+        transform: rotate(-16deg);
+        top: 45px;
+    }
+    
+    45% {
+        top: 25px;
+        
+    }
+    
+    60% {
+       
+        top: 40px;
+        
+    }
+    
+    75% {
+        transform: rotate(16deg);
+        top: 20px;
+    }
+    
+    100% {
+        top: 53px;
+    }
+    
+}

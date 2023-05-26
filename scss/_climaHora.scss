@@ -2,7 +2,7 @@
   position: relative;
 }
 
-.cardm {
+.cardD {
   width: 270px;
   height: 140px;
   position: absolute;
@@ -18,11 +18,35 @@
   z-index: 5;
 }
 
-.cardm:hover {
+.cardD:hover {
   -webkit-transform: scale(1.05);
       -ms-transform: scale(1.05);
           transform: scale(1.05);
 }
+
+
+.cardN {
+  width: 270px;
+  height: 140px;
+  position: absolute;
+  padding: 25px;
+  left:40px;
+  background: radial-gradient(178.94% 106.41% at 26.42% 106.41%, #000000 0%, rgba(255, 255, 255, 0) 71.88%), #000000;
+  -webkit-box-shadow: 0px 155px 62px rgba(0, 0, 0, 0.01), 0px 87px 52px rgba(0, 0, 0, 0.05), 0px 39px 39px rgba(0, 0, 0, 0.09), 0px 10px 21px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 155px 62px rgba(0, 0, 0, 0.01), 0px 87px 52px rgba(0, 0, 0, 0.05), 0px 39px 39px rgba(0, 0, 0, 0.09), 0px 10px 21px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 23px;
+  -webkit-transition: all 0.8s cubic-bezier(0.15, 0.83, 0.66, 1);
+  transition: all 0.8s cubic-bezier(0.15, 0.83, 0.66, 1);
+  cursor: pointer;
+  z-index: 5;
+}
+
+.cardN:hover {
+  -webkit-transform: scale(1.05);
+      -ms-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
 
 .container {
   width: 250px;
@@ -50,16 +74,23 @@
 }
 
 .front {
-  padding-top: 45px;
-  margin-left: 25px;
+  padding-bottom: 5rem;
+  left: 6rem;
   display: inline;
   position: absolute;
   z-index: 11;
   -webkit-animation: clouds 8s infinite;
-          animation: clouds 8s infinite;
+  animation: clouds 8s infinite;
   -webkit-animation-timing-function: ease-in-out;
-          animation-timing-function: ease-in-out;
-}
+  animation-timing-function: ease-in-out; }
+
+  .descriptionClima{    word-break: break-all;
+    margin-top: 16px;
+    font-weight: 800;
+    font-size: 15px;
+    text-transform: capitalize;
+    line-height: 135%;
+    color: rgba(87, 77, 51, 0.66);}
 
 .back {
   margin-top: -30px;
@@ -211,7 +242,7 @@
   font-weight: 700;
   font-size: 15px;
   line-height: 135%;
-  color: rgba(87, 77, 51, 0.33);
+  color: #545454f5;
 }
 
 .temp {

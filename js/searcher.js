@@ -28,7 +28,7 @@ function ActualizarCatalogo(array, ContenedorById, propiedadObjetoArray, textVal
         ContenedorById.innerHTML = `
         <div class="notFoundGame animate__animated animate__fadeIn">
             <h2>No se han encontrado resultados</h2>
-            <img class="imgIconsNav" src="img/notfoundlupa.png" alt="Not Found" width="100px"/>
+            <img  src="img/notfoundlupa.png" alt="Not Found" width="100px"/>
         </div>`
     }
 }

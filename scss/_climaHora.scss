@@ -16,6 +16,8 @@
   transition: all 0.8s cubic-bezier(0.15, 0.83, 0.66, 1);
   cursor: pointer;
   z-index: 5;
+  background: url('../img/sun.png');
+  background-size: cover;
 }
 
 .cardD:hover {
@@ -39,6 +41,8 @@
   transition: all 0.8s cubic-bezier(0.15, 0.83, 0.66, 1);
   cursor: pointer;
   z-index: 5;
+  background: url('../img/moom.jpg');
+  background-size: cover;
 }
 
 .cardN:hover {
@@ -82,15 +86,19 @@
   -webkit-animation: clouds 8s infinite;
   animation: clouds 8s infinite;
   -webkit-animation-timing-function: ease-in-out;
-  animation-timing-function: ease-in-out; }
+  animation-timing-function: ease-in-out; 
+}
 
-  .descriptionClima{    word-break: break-all;
+  .descriptionClima{
+    word-break: break-all;
     margin-top: 16px;
     font-weight: 800;
     font-size: 15px;
     text-transform: capitalize;
     line-height: 135%;
-    color: rgba(87, 77, 51, 0.66);}
+    text-shadow: 0px 4px 2px black;
+    color: rgba(255, 255, 255, 0.77);
+  }
 
 .back {
   margin-top: -30px;
@@ -233,16 +241,19 @@
 .card-header span:first-child {
   word-break: break-all;
   font-weight: 800;
-  font-size: 15px;
+  text-shadow: 0px 4px 2px rgb(0, 0, 0);
+  font-size: 16px;
   line-height: 135%;
-  color: rgba(87, 77, 51, 0.66);
+  color: rgb(250, 250, 250);
 }
 
 .card-header span:last-child {
   font-weight: 700;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 135%;
-  color: #545454f5;
+  text-transform: capitalize;
+  color: #ffffff;
+  text-shadow: 0px 4px 2px rgb(0, 0, 0);
 }
 
 .temp {
@@ -251,8 +262,9 @@
   bottom: -12px;
   font-weight: 700;
   font-size: 36px;
+  text-shadow: 0px 4px 2px rgb(0, 0, 0);
   line-height: 77px;
-  color: #574d33;
+  color: #ffffff;
 }
 
 .temp-scale {
@@ -278,5 +290,6 @@
   font-weight: 700;
   font-size: 13px;
   line-height: 134.49%;
-  color: rgba(87, 77, 51, 0.66);
+  text-shadow: 0px 4px 2px rgb(0, 0, 0);
+  color: rgb(213, 213, 213);
 }

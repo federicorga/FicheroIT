@@ -557,7 +557,7 @@ footer {
   cursor: pointer;
   z-index: 5;
   background: url("../img/sun.png");
-  background-size: cover; }
+  background-size: inherit; }
 
 .cardD:hover {
   -webkit-transform: scale(1.05);
@@ -579,7 +579,7 @@ footer {
   cursor: pointer;
   z-index: 5;
   background: url("../img/moom.jpg");
-  background-size: cover; }
+  background-size: inherit; }
 
 .cardN:hover {
   -webkit-transform: scale(1.05);

@@ -17,7 +17,7 @@
   cursor: pointer;
   z-index: 5;
   background: url('../img/sun.png');
-  background-size: cover;
+  background-size: inherit;
 }
 
 .cardD:hover {
@@ -42,7 +42,7 @@
   cursor: pointer;
   z-index: 5;
   background: url('../img/moom.jpg');
-  background-size: cover;
+  background-size: inherit;
 }
 
 .cardN:hover {

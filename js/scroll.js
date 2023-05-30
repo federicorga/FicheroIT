@@ -2,7 +2,7 @@ let ubicacionInicial = 0;
 window.onscroll=function(){
     
     let ubicacionActual = window.pageYOffset;
-    console.log("es" + ubicacionInicial);
+    //console.log("es" + ubicacionInicial);
 
     if(ubicacionInicial< 200){
         document.getElementById('desplazador').style.opacity="0"

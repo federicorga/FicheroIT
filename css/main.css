@@ -25,10 +25,6 @@ html {
   background: linear-gradient(15deg, #212121, #1d0844);
   background-repeat: repeat; }
 
-footer {
-  height: 0;
-  min-height: 85; }
-
 .SectionLoader {
   position: fixed;
   z-index: 1000;
@@ -803,32 +799,41 @@ footer {
   z-index: 1; }
   .sectionImgAstronauta .mate {
     position: relative;
-    top: 53px;
-    animation: mater 12s infinite;
-    left: 32px;
-    width: 46px; }
+    top: -18px;
+    animation: mater 15s infinite;
+    left: 66px;
+    z-index: 1;
+    width: 46px;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: mater; }
   .sectionImgAstronauta img {
     position: relative;
     top: 4px;
-    width: 150px; }
+    width: 221px; }
 
 @keyframes mater {
   0% {
-    top: 53px; }
+    top: -15%; }
   15% {
-    top: 25px; }
+    top: -15%; }
   30% {
-    transform: rotate(-16deg);
-    top: 45px; }
+    top: 45%; }
   45% {
-    top: 25px; }
+    transform: rotate(-20deg);
+    top: 8%; }
   60% {
-    top: 40px; }
-  75% {
     transform: rotate(16deg);
-    top: 20px; }
+    top: 45%; }
+  85% {
+    top: -15%;
+    transform: rotate(0deg); }
   100% {
-    top: 53px; } }
+    top: -15%; } }
 
 .iconCatDiv {
   display: flex;
@@ -930,7 +935,7 @@ footer {
   width: 3rem;
   height: 3rem;
   border-radius: 50px;
-  background: linear-gradient(45deg, #590ae1, #8829e2);
+  background: linear-gradient(45deg, #5f0a87, #8829e2);
   align-content: stretch;
   align-items: center;
   justify-content: center;

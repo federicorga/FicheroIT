@@ -21,9 +21,12 @@ function renderCardModel(page) {
             </div>
             <div class="card-bio">
              <p id="descriptionCard${page.id}">${page.description}</p>
+
+             
             </div>
         
         </a>
+      
       
     `
 
@@ -32,5 +35,4 @@ function renderCardModel(page) {
 
 
 }
-
 

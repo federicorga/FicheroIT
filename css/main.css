@@ -25,6 +25,30 @@ html {
   background: linear-gradient(15deg, #212121, #1d0844);
   background-repeat: repeat; }
 
+.pagConstruccion {
+  display: none; }
+
+@media (max-width: 1075px) {
+  .pagConstruccion {
+    display: flex;
+    position: absolute;
+    z-index: 1;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #faf9f9;
+    letter-spacing: 1px;
+    width: 100vw;
+    flex-direction: column; }
+    .pagConstruccion img {
+      width: 200px; }
+  header {
+    display: none; }
+  main {
+    display: none; }
+  footer {
+    display: none; } }
+
 .SectionLoader {
   position: fixed;
   z-index: 1000;

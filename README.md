@@ -3,7 +3,7 @@
 ##
 
 
-- [Link a la pagina](ficheroit.netlify.app/)
+- [Link a la pagina](https://ficheroit.netlify.app/)
 
 
 

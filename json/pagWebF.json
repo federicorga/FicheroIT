@@ -443,7 +443,7 @@
   },
   {
     "nameWeb": " RUN JS - Codigo en vivo",
-    "link": "https://caniuse.com/",
+    "link": "https://runjs.app/",
     "category": "Herramienta",
     "subCategory": "JavaScript",
     "description": "Explore y experimente con JavaScript y TypeScript, visualice sus ideas y obtenga comentarios instantáneos a medida que escribe. "
@@ -751,7 +751,7 @@
   },
   {
     "nameWeb": "lucidchart - Diagrama UML",
-    "link": "https://www.drawio.com/",
+    "link": "https://www.lucidchart.com/pages/es",
     "category": "Herramienta",
     "subCategory": "C#",
     "description": "Programa para Hacer Diagramas UML Online, es un espacio de trabajo gráfico que combina diagramas, visualización de datos y colaboración para acelerar la comprensión e impulsar la innovación."
@@ -769,6 +769,29 @@
     "category": "Herramienta",
     "subCategory": "IA",
     "description": "El motor de búsqueda de IA para desarrolladores."
+  },
+  {
+    "nameWeb": "Twilio - APIs comunicaciones SMS,Whatsapp,etc",
+    "link": "https://www.twilio.com/es-mx",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "es una plataforma de comunicaciones que nos permitirá  establecer un sistema de comunicación más directo con el cliente. Nos permitirá establecer SMS, whatsapp, chatbots, mensajes de voz pregrabados, etc.,"
+  },
+  {
+    "nameWeb": "NodeMailer - Email",
+    "link": "https://nodemailer.com/about/",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "permite enviar correos electrónicos fácilmente desde nuestras aplicaciones. Este nos permitirá conectar con múltiples hosts y servicios de mailing."
+
+  },
+  {
+    "nameWeb": "Refactoring - Patrones de Diseño",
+    "link": "https://refactoring.guru/es/design-patterns",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "te ayuda a descubrir todo lo que necesitas saber sobre la refactorización, los patrones de diseño, los principios SOLID y otros temas de la programación inteligente."
+
   }
 
 ]

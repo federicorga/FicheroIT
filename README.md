@@ -3,7 +3,7 @@
 ##
 
 
-- [Link a la pagina](https://federicorga.github.io/proyecto-web-favorito/)
+- [Link a la pagina](https://ficheroit.netlify.app/)
 
 
 

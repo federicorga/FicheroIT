@@ -792,6 +792,55 @@
     "subCategory": "NodeJs",
     "description": "te ayuda a descubrir todo lo que necesitas saber sobre la refactorización, los patrones de diseño, los principios SOLID y otros temas de la programación inteligente."
 
+  },
+  {
+    "nameWeb": "NVM - Node Version Manager",
+    "link": "https://github.com/coreybutler/nvm-windows#readme",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "El software nvm permite instalar y gestionar distintas versiones de NodeJS en un ordenador, lo que facilita el trabajo con proyectos que requieren versiones distintas."
+
+  },
+  {
+    "nameWeb": "Docker - Contenedores",
+    "link": "https://www.docker.com/",
+    "category": "Herramienta",
+    "subCategory": "BD",
+    "description": "automatiza el despliegue de aplicaciones dentro de contenedores de software, proporcionando una capa adicional de abstracción y automatización de virtualización de aplicaciones en múltiples sistemas operativos.​ "
+
+  },
+  {
+    "nameWeb": "Artillery",
+    "link": "https://www.artillery.io/",
+    "category": "Herramienta",
+    "subCategory": "NodeJS",
+    "description": "Escale y ejecute sus pruebas en AWS Lambda o AWS Fargate. Artillery es la única solución que brinda pruebas de carga nativas de la nube distribuidas a escala para todos de forma GRATUITA.​ "
+
+  },
+  {
+    "nameWeb": "CSS TRansform",
+    "link": "https://css-transform.moro.es/",
+    "category": "Herramienta",
+    "subCategory": "CSS",
+    "description": " Visualizador de funciones de transformación CSS 2D y 3D"
+
+  },
+  {
+    "nameWeb": "Eniun - tutoriales diseño y desarrollo web",
+    "link": "https://www.eniun.com/tutoriales-diseno-web/",
+    "category": "Documentacion",
+    "subCategory": "HTML",
+    "description": "Los siguientes tutoriales te proporcionarán los conocimientos fundamentales y las habilidades necesarias para crear sitios web atractivos y funcionales."
+
+  },
+  {
+    "nameWeb": "Kubernetes",
+    "link": "https://kubernetes.io/es/",
+    "category": "Herramienta",
+    "subCategory": "BF",
+    "description": "Kubernetes es una plataforma de código abierto para automatizar la implementación, el escalado y la administración de aplicaciones en contenedores."
+
   }
+
 
 ]

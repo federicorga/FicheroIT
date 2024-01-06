@@ -813,7 +813,7 @@
     "nameWeb": "Artillery",
     "link": "https://www.artillery.io/",
     "category": "Herramienta",
-    "subCategory": "NodeJS",
+    "subCategory": "NodeJs",
     "description": "Escale y ejecute sus pruebas en AWS Lambda o AWS Fargate. Artillery es la única solución que brinda pruebas de carga nativas de la nube distribuidas a escala para todos de forma GRATUITA.​ "
 
   },
@@ -837,8 +837,48 @@
     "nameWeb": "Kubernetes",
     "link": "https://kubernetes.io/es/",
     "category": "Herramienta",
-    "subCategory": "BF",
+    "subCategory": "BD",
     "description": "Kubernetes es una plataforma de código abierto para automatizar la implementación, el escalado y la administración de aplicaciones en contenedores."
+
+  },
+  {
+    "nameWeb": "Curl",
+    "link": "https://curl.se/",
+    "category": "Herramienta",
+    "subCategory": "BD",
+    "description": "Es una herramienta basada en líneas de comandos que puede usar para transferir datos por medio de protocolos de red"
+
+  },
+  {
+    "nameWeb": "VirtualBox",
+    "link": "https://www.virtualbox.org/",
+    "category": "Herramienta",
+    "subCategory": "Documentacion",
+    "description": "Permite crear maquinas virtuales"
+
+  },
+  {
+    "nameWeb": "JWT - Json Web Tocken",
+    "link": "https://jwt.io/",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "Las tokens web JSON son un estándar abierto de la industria RFC 7519 método para representar reclamos de forma segura entre dos partes.JWT.IO le permite decodificar, verificar y generar JWT."
+
+  },
+  {
+    "nameWeb": "Bcrypt -Hasheo de contraseña",
+    "link": "https://github.com/kelektiv/node.bcrypt.js",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "Librería criptográfica de hashing de contraseñas. Su objetivo principal es proteger las contraseñas almacenadas en bases de datos o sistemas de autenticación"
+
+  },
+  {
+    "nameWeb": "compression middleware Express",
+    "link": "https://www.virtualbox.org/",
+    "category": "Herramienta",
+    "subCategory": "NodeJs",
+    "description": "Es una aplicación Node.js con Express para habilitar la compresión de respuesta (gzip) en las solicitudes HTTP que se envían desde el servidor."
 
   }
 

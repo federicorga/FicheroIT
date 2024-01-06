@@ -21,6 +21,15 @@ html {
     -moz-box-sizing: inherit;
     box-sizing: inherit; }
 
+    main{
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      justify-content: center;
+  }
+
+ 
+
 .bodyI {
   background: linear-gradient(15deg, #212121, #1d0844);
   background-repeat: repeat; }
@@ -45,7 +54,9 @@ html {
   header {
     display: none; }
   main {
-    display: none; }
+    display: none;
+};
+   
   footer {
     display: none; } }
 
@@ -438,7 +449,7 @@ html {
   position: relative;
   text-align: center;
   font-family: 'Raleway', sans-serif;
-  margin: 0;
+  margin: 0 !important;
   padding: 0;
   margin-left: 2rem;
   font-weight: 700 !important;
@@ -457,13 +468,24 @@ html {
     transition: 0.5s;
     transform: scale(1.2); }
 
+.grupoA{
+  width: 200px;
+}
+
+.grupoB{
+  width: 100%;
+  display: flex;
+  padding-right: 10rem;
+}
+
 .seccionNavBar {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   padding-top: 50px;
   align-items: center;
-  margin-bottom: 50px; }
+  margin-bottom: 50px;
+  justify-content: center; }
   .seccionNavBar .imgIcon {
     position: relative;
     width: 42px;
@@ -471,18 +493,26 @@ html {
     left: 14px;
     z-index: 1; }
 
+.navMenu{
+  display: flex;
+  justify-content: center;
+}
 .ulNavMenu {
   display: flex;
-  margin-top: 0;
-  margin-bottom: 0;
-  flex-wrap: wrap; }
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    width: auto;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: nowrap; }
   .ulNavMenu li {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     margin: 0;
     padding: 0;
-    margin-bottom: 3px; }
+    margin-bottom: 6px; }
     .ulNavMenu li:active {
       transition: 0.2s;
       transform: scale(0.9); }
@@ -815,7 +845,7 @@ html {
   display: flex;
   height: 87px;
   width: 0;
-  left: 48%;
+  left: 48.5%;
   margin: 0;
   align-items: center;
   justify-content: center;
@@ -923,10 +953,12 @@ html {
 .ContenedorBarraBusqueda {
   position: relative;
   display: flex;
-  justify-content: center;
+  padding: 0;
+  margin: 0;
   padding-top: 20px;
   padding-bottom: 20px;
-  z-index: 0; }
+  z-index: 0;
+  justify-content: center; }
 
 .barraBuscador {
   width: 42% !important;
@@ -1012,17 +1044,16 @@ html {
 .contenedor {
   display: flex;
   flex-direction: row;
-  justify-content: center;
-  margin-left: 50px;
-  margin-right: 50px;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+
   flex-wrap: wrap; }
   .contenedor .linkCard {
     text-decoration: none;
     list-style: none;
     color: black; }
   .contenedor .card {
-    margin-left: 50px;
-    margin-right: 50px;
     display: flex;
     width: 343px;
     height: 140px;
@@ -1031,9 +1062,9 @@ html {
     border-radius: 28px 28px 28px 28px;
     -webkit-border-radius: 28px 28px 28px 28px;
     -moz-border-radius: 28px 28px 28px 28px;
-    background: #ff930f;
-    background: -webkit-gradient(linear, left bottom, left top, from(#ff930f), to(#fffa5c));
-    background: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%); }
+    background: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);
+    align-content: space-between;
+}
     .contenedor .card:hover {
       transition: 0.5s ease-in-out;
       transform: scale(1.05);
